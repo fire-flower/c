@@ -4,6 +4,6 @@ using namespace std;
 
 int main(int argc, char* args[])
 {
-	cout << "Hello world" << endl;
+	cout << "This project is to verify c/c++ test." << endl;
 	return 0;
 }
